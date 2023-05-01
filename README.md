@@ -35,8 +35,8 @@ Siéntete libre de utilizar este repositorio para enseñar a utilizar este lengu
         - Listas
 
 - **Módulo 3:** Manipulación de Datos con ``dplyr``
-    - Conociendo ``dplyr``
     - Lectura de Datos
+    - Conociendo ``dplyr``
     - Acciones posibles con ``dplyr``
         - Limpieza de Datos
         - Combinar Datos
@@ -44,6 +44,7 @@ Siéntete libre de utilizar este repositorio para enseñar a utilizar este lengu
     - Resumir Datos
 
 - **Módulo 4:** Visualización de Datos con ``ggplot2``
+    - Sobre la Visualización de Datos
     - Conociendo ``ggplot2``
     - Tipos de gráficos
         - Discreta vs discreta
