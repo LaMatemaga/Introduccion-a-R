@@ -7,7 +7,7 @@ La versión de R más actualizada con la que se probaron los ejercicios fue la `
 Siéntete libre de utilizar este repositorio para enseñar a utilizar este lenguaje. ¡Agradecería mucho que compartieras el material y nos referencíes!
 
 ## Índice por Módulos
-- **Módulo 1:** Introducción a R e Interfaz de Usuario
+- **Módulo 1:** Introducción a R
     - Ventajas / Desventajas vs otras alternativas
     - Lenguaje R
         - Historia
@@ -21,3 +21,39 @@ Siéntete libre de utilizar este repositorio para enseñar a utilizar este lengu
        - Editor de Scripts
        - Directorio de Trabajo y Sesión de Trabajo
     - Ejercicios
+
+- **Módulo 2:** Trabajando con Datos
+    - Tipos de datos
+        - Tipos de datos más comunes
+        - Coerción
+        - Operadores (aritméticos, relacionales, lógicos, de asignación)
+        - Jerarquía de Operadores
+    - Estructuras de datos
+        - Vectores
+        - Matrices y Arreglos
+        - Dataframes
+        - Listas
+
+- **Módulo 3:** Manipulación de Datos con ``dplyr``
+    - Conociendo dplyr
+    - Lectura de Datos
+    - Limpiando Datos
+    - Combinando Datos
+    - Ordenamiento y Filtrado de Datos
+    - Resumiendo Datos
+
+- **Módulo 4:** Visualización de Datos con ``ggplot2``
+    - Conociendo ggplot2
+    - Tipos de gráficos
+        - Discreta vs discreta
+        - Discreta vs continua
+        - Continua vs discreta
+        - Continua vs continua
+
+- **Módulo 5:** Programación en R
+    - Estructuras de Control
+        - Condicionales
+        - Ciclos
+    - Funciones
+
+- **Sugerencias de Proyectos**
