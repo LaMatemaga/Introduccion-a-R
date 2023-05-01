@@ -35,15 +35,16 @@ Siéntete libre de utilizar este repositorio para enseñar a utilizar este lengu
         - Listas
 
 - **Módulo 3:** Manipulación de Datos con ``dplyr``
-    - Conociendo dplyr
+    - Conociendo ``dplyr``
     - Lectura de Datos
-    - Limpiando Datos
-    - Combinando Datos
-    - Ordenamiento y Filtrado de Datos
-    - Resumiendo Datos
+    - Acciones posibles con ``dplyr``
+        - Limpieza de Datos
+        - Combinar Datos
+        - Ordenar y Filtrar de Datos
+    - Resumir Datos
 
 - **Módulo 4:** Visualización de Datos con ``ggplot2``
-    - Conociendo ggplot2
+    - Conociendo ``ggplot2``
     - Tipos de gráficos
         - Discreta vs discreta
         - Discreta vs continua
