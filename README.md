@@ -7,7 +7,7 @@ La versión de R más actualizada con la que se probaron los ejercicios fue la `
 Siéntete libre de utilizar este repositorio para enseñar a utilizar este lenguaje. ¡Agradecería mucho que compartieras el material y nos referencíes!
 
 ## Índice por Módulos
-- **Módulo 1:** Introducción a R
+- **Módulo 1:** Introducción a R e Interfaz de Usuario
     - Ventajas / Desventajas vs otras alternativas
     - Lenguaje R
         - Historia
